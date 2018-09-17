@@ -25,3 +25,4 @@ enable_uart=1
 dtparam=spi=on
 boot_delay=0
 initial_turbo=10
+gpio=6,13,19=pu
